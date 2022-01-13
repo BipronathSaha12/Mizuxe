@@ -1,6 +1,6 @@
 # Mizuxe Landing Page 
 
-*Mizuxe* design is a landing page design for a sample website.
+*Mizuxe* is a landing page design for a sample website.
     
 ## Deployment
 
@@ -8,7 +8,7 @@ This site  is deployed and hosted in Netlify.
 
 Visit the link:
 ```bash
-    https://mizuxe.netlify.app/
+    https://mizuxe-design.netlify.app/
 ```
 
 ### Documentation
